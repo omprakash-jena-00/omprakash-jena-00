@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @omprakash-jena-00
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning R, Python, SQL
-- 💞️ I’m looking to collaborate on Data Analytics related projects
-- 📫 You can reach out me at omprakash.jena@hotmail.com
+# Hola, I'm Omprakash Jena! 👋
+
+ - I'm currently working as a Data Analyst for Tata Consultancy Services.
+ - I'm currently learning Python.
+ - Looking for collaborative learning on Python.
+ - You can reach me on LinkedIn: omprakash-jena-943277143
 
 <!---
 omprakash-jena-00/omprakash-jena-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
